@@ -1,0 +1,8 @@
+.*
+
+!.dockerignore
+!.gitignore
+
+*.sqlite3
+
+venv
