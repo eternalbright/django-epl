@@ -1,6 +1,5 @@
 .*
 
-!.dockerignore
 !.gitignore
 
 *.sqlite3
